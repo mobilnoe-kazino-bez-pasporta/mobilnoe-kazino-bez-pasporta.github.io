@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: mobilnoe-kazino-bez-pasporta.github.io
+Sitemap: https://mobilnoe-kazino-bez-pasporta.github.io/sitemap.xml
